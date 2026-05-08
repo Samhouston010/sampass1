@@ -31,16 +31,24 @@ https://av.alarabiya.net/alarabiapublish/alarabiya_1080p/chunks.m3u8
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1  tvg-name="BBC News North America HD" tvg-id="bbc-news-north-america-hd" group-title="Live",BBC News North America HD
 https://tvpass.org/live/BBCWorldNewsNorthAmerica/sd
+#EXTINF:-1  tvg-name="BBC-Earth" tvg-id="" group-title="Live",BBC-Earth
+https://amg00793-amg00793c6-firetv-us-4067.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-name="HD-Travel-TV" tvg-id="" group-title="Live",HD-Travel-TV
 https://rpn.bozztv.com/gusa/gusa-tvstravel/index.m3u8
+#EXTINF:-1  tvg-name="Travelxp" tvg-id="" group-title="Live",Travelxp
+https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TravelXP/playlist.m3u8
 #EXTINF:-1  tvg-name="Total-Crime" tvg-id="" group-title="Live",Total-Crime
 https://aegis-cloudfront-1.tubi.video/b062c287-a170-47df-99e4-f5dcd441ee59/playlist.m3u8
 #EXTINF:-1  tvg-name="Real-Crime" tvg-id="Real-Crime" group-title="Live",Real-Crime
 https://lds-realcrimebeta-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-name="True-Crime" tvg-id="" group-title="Live",True-Crime
 https://amg00376-magellan-amg00376c11-rakuten-us-1700.playouts.now.amagi.tv/playlist/amg00376-magellantv-truecrimenowww-rakutenus/playlist.m3u8
+#EXTINF:-1  tvg-name="Universal-Crime" tvg-id="" group-title="Live",Universal-Crime
+https://xumo-xumoent-vc-107-xmuvk.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1  tvg-name="True-Crime-Network" tvg-id="" group-title="Live",True-Crime-Network
 https://amg00979-amg00979c1-firetv-us-3622.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-name="Cowboy-Movie-Channel" tvg-id="" group-title="Live",Cowboy-Movie-Channel
+https://streams2.sofast.tv/sofastplayout/32eb332e-f644-46e5-ad91-e55ad80d14f7_0_HLS/index.m3u8
 #EXTINF:-1  tvg-name="FOX (KTTV) Los Angeles" tvg-id="fox-kttv-los-angeles-ca" group-title="Live",FOX (KTTV) Los Angeles
 https://tvpass.org/live/fox-kttv-los-angeles-ca/sd
 #EXTINF:-1  tvg-name="Fox News" tvg-id="fox-news" group-title="Live",Fox News
